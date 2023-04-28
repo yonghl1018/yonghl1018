@@ -1,4 +1,5 @@
 🧗‍♂️ About me
+-----------------
 Hi, I’m Yonghao Liu. You can call me Eric.
 
 I recently finished a data analytics bootcamp at University of Toronto School of Continuing Studies, focusing extensively on data analytics and data visualization skills.
